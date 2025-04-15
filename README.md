@@ -12,5 +12,5 @@ Este projeto contém scripts para automatizar a criação de usuários, grupos, 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/infra-automation.git
-cd infra-automation
+git clone https://github.com/seu-usuario/Desafio-Dio--linux-fundamentos-.git
+cd Desafio-Dio--linux-fundamentos-
